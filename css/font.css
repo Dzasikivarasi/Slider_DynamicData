@@ -1,0 +1,17 @@
+@font-face {
+    font-family: "Corinthia";
+    font-style: normal;
+    font-weight: 400;
+    src: local("Corinthia-Regular"),
+        url("../fonts/Corinthia-Regular.woff2") format("woff2"),
+        url("../fonts/Corinthia-Regular.woff") format("woff");
+}
+
+h1 {
+    color: #544D4D;
+    font-family: Corinthia;
+    font-size: 80px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
